@@ -1,2 +1,1 @@
-# glora
-Gaussian Low-rank Adaptation
+# Bayesian PEFT
